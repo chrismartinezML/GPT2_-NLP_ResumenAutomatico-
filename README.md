@@ -1,4 +1,5 @@
-Generación de Resúmenes Automáticos con GPT-2: Un Proyecto de NLP Paso a Paso
+Proyecto paso a paso de NLP para generación de Resúmenes Automáticos con GPT-2
+
 
 Paso 1: Extracción de texto desde un archivo PDF 📄
 El primer paso fue extraer el texto de un archivo PDF utilizando la librería pdfplumber
@@ -14,6 +15,8 @@ Después de limpiar y preparar el texto, utilicé GPT-2, un modelo de lenguaje p
 
 Paso 5: Generación de Resúmenes Automáticos ⚡
 Finalmente, utilicé GPT-2 para generar un resumen del texto de entrada. Al usar el método generate(), definí parámetros como max_length para controlar la longitud del resumen generado.
+
+
 
 
 Librerías Utilizadas 📚
